@@ -1,1 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Notes::</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
 
+
+<style>
+
+ body{background-color: white;}
+ h1{color: yellow;}
+ </style>
+
+	<h1>
+          HTML </h1>
+       <big>
+             First pre test!  </big>      
+             
+<br>
+<hr>
+<h3>
+            
+             HTML: Hyper text markup language.
+            
+    </h3>         
+             <hr>
+             <h4>
+                    <u>   
+						Tags:-
+						</u>
+             </h4>
+             <ol>
+              <li>
+				  &lt;p&gt;...&lt;/p&gt;:
+              <b>P</b>aragraph tag is used to keep data
+                    summarized.
+              </li>
+              <p>&lt;h1&gt;...&lt;/h1&gt;:
+                 Tag is used for heading (till h6)
+               </p>      
+               <p> Written like this    
+             
+             </p> 
+            <li>
+            <p>
+            &lt;html&gt;&lt;/html&gt;:Parent of head and body tag. </p> </li>
+            <ul><li>
+            html is not case sensitive.</li>
+           <li><p>
+			   html doesn't give error like other coding languages
+			  </p>
+			   </li>
+			    <li><p><u>html attributes are used to add more details 
+			           to tag.</u>
+			          <br> eg:
+			           &lt;html lang="en"&gt;
+			           </p>
+			           </li>
+			           </ul>
+			          <li>Anchor Tag:
+			         <br> &lt;a&gt;
+			          <p>Used to add links to your page.
+			          <br>Eg:<br>
+			          &lt;a href="https://yourlink.com"/Your desired name&gt;<br>&lt;/a&gt;
+			          
+			          </p>
+			          </li>
+			    <big>
+								    :Handwritten:
+			    
+			    <a href="/noteimage1.html"target="_main">
+			    Click</a>
+			    </big>
+<li>
+Image Tag:<br>
+<p>&lt;img src="..."&gt;:
+used for adding images to your page :
+<i><br>
+you can add the image file name from <u>same folder as your html file 
+</u>
+ or Relative link available on the internet.
+ </i> 
+</p>
+<ul><li>&lt;br&gt;:
+is used to add next line (line breaks) to your page.</li></ul> 
+</li><br>
+<li>
+<b>Bold </b>,<i>Italic</i> & <u>Underline</u> Tags are used to highlight text in your page.  
+<ul><li>
+&lt;b&gt;<b>Bold</b>&lt;/b&gt;
+</li>
+<li>
+&lt;i&gt;<i>Italic
+</i>&lt;/i&gt;
+</li>
+<li>
+&lt;u&gt;<u>Underline</u>&lt;/u&gt;
+</li>
+</ul>
+</li>
+<li>
+<big>
+Big 
+</big>
+<small>
+Small</small>
+Tags are used to display big & small text on page.
+<ul><li>&lt;big&gt;<big>Big text</big>&lt;/big&gt;
+</li>
+<li>&lt;small&gt;<small>Small text</small>&lt;/small&gt;:
+</li>
+</ul>
+</li>
+<hr>
+<li>&lt;hr&gt;:is used to horizontal ruler,used to seperate content
+</li><hr>
+<big>Handwritten:-
+<a href="/Noteimg2.html"target="_main">
+Click</big>
+</a>
+</ol>
+
+
+
+</head>
+</html>
